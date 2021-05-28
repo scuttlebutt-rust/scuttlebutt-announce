@@ -6,8 +6,7 @@ authors = [
   "pabloaceg <p.aceredag@gmail.com>"]
 edition = "2018"
 description = "A Scuttlebutt presence announcing implementation."
-license = "GPL-2.0-or-later"
-license-file = "LICENSE"
+license = "AGPL-3.0-or-later"
 keywords = ["scuttlebutt", "floss", "announce"]
 categories = ["protocol"]
 # workspace = "path/to/workspace"
