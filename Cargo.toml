@@ -1,8 +1,16 @@
 [package]
 name = "scuttlebutt-announce"
 version = "0.1.0"
-authors = ["zentauro <pedrogomezmartin1999@gmail.com>"]
+authors = [
+  "zentauro <pedrogomezmartin1999@gmail.com>",
+  "pabloaceg <p.aceredag@gmail.com>"]
 edition = "2018"
+description = "A Scuttlebutt presence announcing implementation."
+license = "GPL-2.0-or-later"
+license-file = "LICENSE"
+keywords = ["scuttlebutt", "floss", "announce"]
+categories = ["protocol"]
+# workspace = "path/to/workspace"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
