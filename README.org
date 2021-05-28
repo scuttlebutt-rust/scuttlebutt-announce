@@ -1,5 +1,0 @@
-#+TITLE: scuttlebut-announce
-
-* Introduction
-
-A service that allows a peer to broadcasts in a scuttlebutt subnetwork to the rest of scuttlebutt's peers its existance.
