@@ -9,7 +9,7 @@ description = "A Scuttlebutt presence announcing implementation."
 license = "AGPL-3.0-or-later"
 keywords = ["scuttlebutt", "floss", "announce"]
 categories = ["protocol"]
-# workspace = "path/to/workspace"
+workspace = "src/"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
