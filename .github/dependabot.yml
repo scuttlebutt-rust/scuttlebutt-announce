@@ -1,0 +1,12 @@
+version: 2
+updates:
+  # Maintain dependencies for Cargo
+  - package-ecosystem: "cargo"
+    # Files stored in repository root
+    directory: "/"
+    schedule:
+      interval: "daily"
+    labels:
+      - "cargo"
+      - "dependencies"
+    open-pull-requests-limit: 5
